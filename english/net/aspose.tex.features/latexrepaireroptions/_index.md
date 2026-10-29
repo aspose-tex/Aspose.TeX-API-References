@@ -28,6 +28,7 @@ public class LaTeXRepairerOptions
 | [InputWorkingDirectory](../../aspose.tex.features/latexrepaireroptions/inputworkingdirectory/) { get; set; } | Gets/sets input working directory. |
 | [OutputWorkingDirectory](../../aspose.tex.features/latexrepaireroptions/outputworkingdirectory/) { get; set; } | Gets/sets output working directory. |
 | [RequiredInputDirectory](../../aspose.tex.features/latexrepaireroptions/requiredinputdirectory/) { get; set; } | Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX's LaTeX support. |
+| [SearchCurrentDirectory](../../aspose.tex.features/latexrepaireroptions/searchcurrentdirectory/) { get; set; } | Gets/sets the flag that instructs the engine whether to look for input files with relative names in the process's current directory and in the directory of the main input file before looking in [`InputWorkingDirectory`](./inputworkingdirectory/), [`RequiredInputDirectory`](./requiredinputdirectory/) and [`OutputWorkingDirectory`](./outputworkingdirectory/). Files with absolute names are opened directly regardless of this setting. Default value is `true`. |
 
 ### See Also
 

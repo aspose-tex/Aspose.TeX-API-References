@@ -3,7 +3,7 @@ title: TeXOptions.TerminalIn
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Gets/sets the input terminal reader
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.tex/texoptions/terminalin/
 ---
 ## TeXOptions.TerminalIn property
