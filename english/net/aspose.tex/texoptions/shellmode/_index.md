@@ -3,7 +3,7 @@ title: TeXOptions.ShellMode
 second_title: Aspose.TeX for .NET API Reference
 description: TeXOptions property. Determines the availability of write18
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.tex/texoptions/shellmode/
 ---
 ## TeXOptions.ShellMode property
