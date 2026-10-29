@@ -22,9 +22,9 @@ class OutputZipDirectory : public Aspose::TeX::IO::IOutputWorkingDirectory
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
 | [Finish](./finish/)() | Finalizes ZIP archive. |
-| [GetFile](./getfile/)(System::String, bool) override | Returns the stream to read from. |
-| [GetOutputFile](./getoutputfile/)(System::String) override | Returns the stream to write to. |
-| [OutputZipDirectory](./outputzipdirectory/)(System::SharedPtr\<System::IO::Stream\>) | Creates new instance. |
+| [GetFile](./getfile/)(const System::String\&, bool) override | Returns the stream to read from. |
+| [GetOutputFile](./getoutputfile/)(const System::String\&) override | Returns the stream to write to. |
+| [OutputZipDirectory](./outputzipdirectory/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates new instance. |
 ## See Also
 
 * Class [IOutputWorkingDirectory](../ioutputworkingdirectory/)

@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.presentation/iinteractivedevice/addbookmark/
 Adds the bookmark identified by the name.
 
 ```cpp
-virtual void Aspose::TeX::Presentation::IInteractiveDevice::AddBookmark(System::String name, System::Drawing::PointF position)=0
+virtual void Aspose::TeX::Presentation::IInteractiveDevice::AddBookmark(const System::String &name, System::Drawing::PointF position)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name. |
+| name | const System::String\& | The name. |
 | position | System::Drawing::PointF | The position. |
 
 ## See Also

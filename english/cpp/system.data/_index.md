@@ -4,7 +4,7 @@ linktitle: System::Data
 second_title: Aspose.TeX for C++
 description: 'How to use System::Data namespace in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.data/
 ---
 

@@ -4,7 +4,7 @@ linktitle: System::Drawing::Drawing2D
 second_title: Aspose.TeX for C++
 description: 'How to use System::Drawing::Drawing2D namespace in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/system.drawing.drawing2d/
 ---
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.tex.io/inputzipdirectory/getfilenamesbyextension/
 Returns the array of file names by an extension.
 
 ```cpp
-System::ArrayPtr<System::String> Aspose::TeX::IO::InputZipDirectory::GetFileNamesByExtension(System::String extension, System::String path=nullptr) override
+System::ArrayPtr<System::String> Aspose::TeX::IO::InputZipDirectory::GetFileNamesByExtension(const System::String &extension, const System::String &path=nullptr) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extension | System::String | The file extension. |
-| path | System::String | The path inside the directory. |
+| extension | const System::String\& | The file extension. |
+| path | const System::String\& | The path inside the directory. |
 
 ### ReturnValue
 

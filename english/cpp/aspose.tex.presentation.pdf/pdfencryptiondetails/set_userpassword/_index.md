@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfencryptiondetails/set_userpassword/
 Sets the User password.
 
 ```cpp
-void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_UserPassword(System::String value)
+void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_UserPassword(const System::String &value)
 ```
 
 ## Remarks
@@ -21,7 +21,7 @@ void Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::set_UserPassword(Syst
 
 The user password. 
 
-Opening the document with the correct user password (or opening a document that does not have a user password) allows additional operations to be performed according to the user access permissions specified in the document’s encryption dictionary. 
+Opening the document with the correct user password (or opening a document that does not have a user password) allows additional operations to be performed according to the user access permissions specified in the documentвЂ™s encryption dictionary. 
 ## See Also
 
 * Class [String](../../../system/string/)

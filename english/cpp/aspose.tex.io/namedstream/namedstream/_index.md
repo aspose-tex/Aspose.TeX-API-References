@@ -13,14 +13,14 @@ url: /cpp/aspose.tex.io/namedstream/namedstream/
 Creates a new instance.
 
 ```cpp
-Aspose::TeX::IO::NamedStream::NamedStream(System::SharedPtr<System::IO::Stream> stream, System::String fullName)
+Aspose::TeX::IO::NamedStream::NamedStream(const System::SharedPtr<System::IO::Stream> &stream, const System::String &fullName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The stream. |
-| fullName | System::String | The full name of the stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream. |
+| fullName | const System::String\& | The full name of the stream. |
 
 ## See Also
 

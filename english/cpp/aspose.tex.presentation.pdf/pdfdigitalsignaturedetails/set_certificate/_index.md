@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/set_certificate
 Certificate to sign with.
 
 ```cpp
-void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Certificate(System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> value)
+void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Certificate(const System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> &value)
 ```
 
 ## Remarks

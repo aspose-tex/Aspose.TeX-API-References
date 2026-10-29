@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.io/outputzipdirectory/outputzipdirectory/
 Creates new instance.
 
 ```cpp
-Aspose::TeX::IO::OutputZipDirectory::OutputZipDirectory(System::SharedPtr<System::IO::Stream> zipStream)
+Aspose::TeX::IO::OutputZipDirectory::OutputZipDirectory(const System::SharedPtr<System::IO::Stream> &zipStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| zipStream | System::SharedPtr\<System::IO::Stream\> | The stream to write the archive to. |
+| zipStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to write the archive to. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: set_Function
 second_title: Aspose.TeX for C++
 description: 'System::Threading::Tasks::Task::set_Function method. Sets the internal function to execute in C++.'
 type: docs
-weight: 1900
+weight: 2200
 url: /cpp/system.threading.tasks/task/set_function/
 ---
 ## Task::set_Function method

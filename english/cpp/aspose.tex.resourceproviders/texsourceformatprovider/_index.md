@@ -20,8 +20,8 @@ class TeXSourceFormatProvider : public Aspose::TeX::ResourceProviders::FormatPro
 
 | Method | Description |
 | --- | --- |
-| [GetFormat](./getformat/)(System::String) override | Gets the stream containing format file. |
-| [TeXSourceFormatProvider](./texsourceformatprovider/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>, System::String) | Creates a new instance. |
+| [GetFormat](./getformat/)(const System::String\&) override | Gets the stream containing format file. |
+| [TeXSourceFormatProvider](./texsourceformatprovider/)(const System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>\&, const System::String\&) | Creates a new instance. |
 ## See Also
 
 * Class [FormatProvider](../formatprovider/)

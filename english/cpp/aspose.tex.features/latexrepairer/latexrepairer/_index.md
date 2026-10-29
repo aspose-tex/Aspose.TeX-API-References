@@ -13,14 +13,14 @@ url: /cpp/aspose.tex.features/latexrepairer/latexrepairer/
 Creates a new instance.
 
 ```cpp
-Aspose::TeX::Features::LaTeXRepairer::LaTeXRepairer(System::String path, System::SharedPtr<Aspose::TeX::Features::LaTeXRepairerOptions> options)
+Aspose::TeX::Features::LaTeXRepairer::LaTeXRepairer(const System::String &path, const System::SharedPtr<Aspose::TeX::Features::LaTeXRepairerOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | System::String | The path to the [TeX](../../../aspose.tex/) file. |
-| options | System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\> | Repair options. |
+| path | const System::String\& | The path to the [TeX](../../../aspose.tex/) file. |
+| options | const System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>\& | Repair options. |
 
 ## See Also
 

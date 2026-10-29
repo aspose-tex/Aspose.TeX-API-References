@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.presentation.xps/xpsdevice/addbookmark/
 Adds the bookmark identified by the name.
 
 ```cpp
-void Aspose::TeX::Presentation::Xps::XpsDevice::AddBookmark(System::String name, System::Drawing::PointF position) override
+void Aspose::TeX::Presentation::Xps::XpsDevice::AddBookmark(const System::String &name, System::Drawing::PointF position) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name. |
+| name | const System::String\& | The name. |
 | position | System::Drawing::PointF | The position. |
 
 ## See Also

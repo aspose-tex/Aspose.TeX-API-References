@@ -4,7 +4,7 @@ linktitle: System::Security::Permissions
 second_title: Aspose.TeX for C++
 description: 'How to use System::Security::Permissions namespace in C++.'
 type: docs
-weight: 5100
+weight: 5200
 url: /cpp/system.security.permissions/
 ---
 

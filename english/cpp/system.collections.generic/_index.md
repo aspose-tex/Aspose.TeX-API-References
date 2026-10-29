@@ -4,7 +4,7 @@ linktitle: System::Collections::Generic
 second_title: Aspose.TeX for C++
 description: 'How to use System::Collections::Generic namespace in C++.'
 type: docs
-weight: 1500
+weight: 1600
 url: /cpp/system.collections.generic/
 ---
 

@@ -20,7 +20,7 @@ class IInputWorkingDirectory : public System::IDisposable
 
 | Method | Description |
 | --- | --- |
-| virtual [GetFile](./getfile/)(System::String, bool) | Returns the stream to read from. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a [NamedStream](../namedstream/) object with a null Stream property value instead. |
+| virtual [GetFile](./getfile/)(const System::String\&, bool) | Returns the stream to read from. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a [NamedStream](../namedstream/) object with a null Stream property value instead. |
 ## See Also
 
 * Class [IDisposable](../../system/idisposable/)

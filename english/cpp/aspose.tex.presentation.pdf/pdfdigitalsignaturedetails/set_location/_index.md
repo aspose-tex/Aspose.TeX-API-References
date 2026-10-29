@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/set_location/
 Location of signing.
 
 ```cpp
-void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Location(System::String value)
+void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Location(const System::String &value)
 ```
 
 ## Remarks

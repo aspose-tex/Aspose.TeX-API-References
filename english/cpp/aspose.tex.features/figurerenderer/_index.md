@@ -21,7 +21,7 @@ class FigureRenderer : public System::Object
 | Method | Description |
 | --- | --- |
 | [FigureRenderer](./figurerenderer/)() | Creates a new instance. |
-| [Render](./render/)(System::String, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Features::FigureRendererOptions\>) | Renders some LaTeX code. |
+| [Render](./render/)(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::TeX::Features::FigureRendererOptions\>\&) | Renders some LaTeX code. |
 ## See Also
 
 * Class [Object](../../system/object/)

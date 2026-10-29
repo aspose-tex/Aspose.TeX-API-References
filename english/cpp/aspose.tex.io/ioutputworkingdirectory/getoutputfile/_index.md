@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.io/ioutputworkingdirectory/getoutputfile/
 Returns the stream to write to. MUST NOT return a null object. In case a stream cannot be returned, it MUST return a [NamedStream](../../namedstream/) object with a null Stream property value instead.
 
 ```cpp
-virtual System::SharedPtr<Aspose::TeX::IO::NamedStream> Aspose::TeX::IO::IOutputWorkingDirectory::GetOutputFile(System::String fileName)=0
+virtual System::SharedPtr<Aspose::TeX::IO::NamedStream> Aspose::TeX::IO::IOutputWorkingDirectory::GetOutputFile(const System::String &fileName)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | The file name. |
+| fileName | const System::String\& | The file name. |
 
 ### ReturnValue
 

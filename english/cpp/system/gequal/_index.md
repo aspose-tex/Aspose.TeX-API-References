@@ -4,7 +4,7 @@ linktitle: GEqual
 second_title: Aspose.TeX for C++
 description: 'System::GEqual method. Implements ''>='' relative pattern translation in C++.'
 type: docs
-weight: 20600
+weight: 21200
 url: /cpp/system/gequal/
 ---
 ## System::GEqual method
@@ -29,7 +29,7 @@ template<class ExpressionT,class ConstantT> bool System::GEqual(const Expression
 
 ### ReturnValue
 
-true if type check is successfull, false otherwise.
+true if type check is successful, false otherwise.
 
 ## See Also
 

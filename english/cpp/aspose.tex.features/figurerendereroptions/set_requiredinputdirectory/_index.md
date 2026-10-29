@@ -4,7 +4,7 @@ linktitle: set_RequiredInputDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::set_RequiredInputDirectory method. Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX''s LaTeX support in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/aspose.tex.features/figurerendereroptions/set_requiredinputdirectory/
 ---
 ## FigureRendererOptions::set_RequiredInputDirectory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerendereroptions/set_requiredinputdirectory/
 Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../../../aspose.tex/)'s LaTeX support.
 
 ```cpp
-void Aspose::TeX::Features::FigureRendererOptions::set_RequiredInputDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
+void Aspose::TeX::Features::FigureRendererOptions::set_RequiredInputDirectory(const System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> &value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ArraySegment
 second_title: Aspose.TeX for C++
 description: 'System::ArraySegment class. Represents a segment of the one-dimensional array. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 300
+weight: 400
 url: /cpp/system/arraysegment/
 ---
 ## ArraySegment class
@@ -29,10 +29,13 @@ template<typename T>class ArraySegment : public System::Object
 | [ArraySegment](./arraysegment/)() |  |
 | [Equals](./equals/)(System::SharedPtr\<Object\>) override |  |
 | [Equals](./equals/)(ArraySegment\<T\>) |  |
-| [get_Array](./get_array/)() |  |
-| [get_Count](./get_count/)() |  |
-| [get_Offset](./get_offset/)() |  |
+| [get_Array](./get_array/)() const |  |
+| [get_Count](./get_count/)() const |  |
+| [get_Offset](./get_offset/)() const |  |
 | [GetHashCode](./gethashcode/)() const override | Analog of C# [Object.GetHashCode()](../object/gethashcode/) method. Enables hashing of custom objects. |
+| [operator[]](./operator[]/)(int32_t) const |  |
+| [Slice](./slice/)(int32_t, int32_t) |  |
+| [ToArray](./toarray/)() const |  |
 ## Remarks
 
 

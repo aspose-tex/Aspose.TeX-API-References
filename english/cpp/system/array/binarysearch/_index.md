@@ -4,7 +4,7 @@ linktitle: BinarySearch
 second_title: Aspose.TeX for C++
 description: 'System::Array::BinarySearch method. Performs binary search in the sorted array in C++.'
 type: docs
-weight: 4600
+weight: 4800
 url: /cpp/system/array/binarysearch/
 ---
 ## Array::BinarySearch(System::ArrayPtr\<T\>, const T\&) method
@@ -24,7 +24,7 @@ static int System::Array<T>::BinarySearch(System::ArrayPtr<T> arr, const T &item
 
 ### ReturnValue
 
-Index of the searched item if one is found, otherwise, a negative integer that is the bitwise complement of the index of the next item greater than searched item or, if there is no greater item, the bitwise complement of the number of elements in the array.
+[Index](../../index/) of the searched item if one is found, otherwise, a negative integer that is the bitwise complement of the index of the next item greater than searched item or, if there is no greater item, the bitwise complement of the number of elements in the array.
 
 ## See Also
 

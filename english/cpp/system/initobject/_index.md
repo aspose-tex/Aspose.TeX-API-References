@@ -4,7 +4,7 @@ linktitle: InitObject
 second_title: Aspose.TeX for C++
 description: 'System::InitObject method. Starts initialization of an object with shared ownership in C++.'
 type: docs
-weight: 21800
+weight: 22600
 url: /cpp/system/initobject/
 ---
 ## System::InitObject method

@@ -21,19 +21,19 @@ Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream()
 * Class [NondisposableMemoryStream](../)
 * Namespace [Aspose::TeX::IO](../../)
 * Library [Aspose.TeX for C++](../../../)
-## NondisposableMemoryStream::NondisposableMemoryStream(System::SharedPtr\<System::IO::Stream\>) constructor
+## NondisposableMemoryStream::NondisposableMemoryStream(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Creates a new instance using some data stream.
 
 ```cpp
-Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream(System::SharedPtr<System::IO::Stream> stream)
+Aspose::TeX::IO::NondisposableMemoryStream::NondisposableMemoryStream(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The data stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The data stream. |
 
 ## See Also
 

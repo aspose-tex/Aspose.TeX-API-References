@@ -4,7 +4,7 @@ linktitle: ReadByte
 second_title: Aspose.TeX for C++
 description: 'System::Runtime::InteropServices::Marshal::ReadByte method. Reads byte from memory in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/system.runtime.interopservices/marshal/readbyte/
 ---
 ## Marshal::ReadByte method
@@ -19,7 +19,7 @@ static uint8_t System::Runtime::InteropServices::Marshal::ReadByte(IntPtr ptr, i
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 
 ### ReturnValue

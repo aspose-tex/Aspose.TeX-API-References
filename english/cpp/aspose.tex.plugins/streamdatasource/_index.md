@@ -22,7 +22,7 @@ class StreamDataSource : public Aspose::TeX::Plugins::IDataSource
 | --- | --- |
 | [get_Data](./get_data/)() const | Gets the underlying stream. |
 | [get_DataType](./get_datatype/)() override | The data source type. |
-| [StreamDataSource](./streamdatasource/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new stream data source. |
+| [StreamDataSource](./streamdatasource/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates a new stream data source. |
 ## See Also
 
 * Class [IDataSource](../idatasource/)

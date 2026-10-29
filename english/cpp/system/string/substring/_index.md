@@ -4,7 +4,7 @@ linktitle: Substring
 second_title: Aspose.TeX for C++
 description: 'System::String::Substring method. Extracts substring in C++.'
 type: docs
-weight: 4500
+weight: 4600
 url: /cpp/system/string/substring/
 ---
 ## String::Substring(int32_t) const method

@@ -13,14 +13,14 @@ url: /cpp/aspose.tex.resourceproviders/texsourceformatprovider/texsourceformatpr
 Creates a new instance.
 
 ```cpp
-Aspose::TeX::ResourceProviders::TeXSourceFormatProvider::TeXSourceFormatProvider(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> workingDirectory, System::String formatFileName)
+Aspose::TeX::ResourceProviders::TeXSourceFormatProvider::TeXSourceFormatProvider(const System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> &workingDirectory, const System::String &formatFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| workingDirectory | System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\> | The working directory. |
-| formatFileName | System::String | The source file name to start reading format from. |
+| workingDirectory | const System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>\& | The working directory. |
+| formatFileName | const System::String\& | The source file name to start reading format from. |
 
 ## See Also
 

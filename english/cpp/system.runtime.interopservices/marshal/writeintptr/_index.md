@@ -1,0 +1,30 @@
+---
+title: System::Runtime::InteropServices::Marshal::WriteIntPtr method
+linktitle: WriteIntPtr
+second_title: Aspose.TeX for C++
+description: 'System::Runtime::InteropServices::Marshal::WriteIntPtr method. Writes IntPtr to memory in C++.'
+type: docs
+weight: 2300
+url: /cpp/system.runtime.interopservices/marshal/writeintptr/
+---
+## Marshal::WriteIntPtr method
+
+
+Writes IntPtr to memory.
+
+```cpp
+static void System::Runtime::InteropServices::Marshal::WriteIntPtr(IntPtr ptr, int offset, IntPtr value)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
+| offset | int | Offset to memory buffer. |
+| value | IntPtr | to write. |
+
+## See Also
+
+* Class [Marshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.TeX for C++](../../../)

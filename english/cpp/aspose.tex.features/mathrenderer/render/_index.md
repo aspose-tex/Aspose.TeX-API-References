@@ -13,15 +13,15 @@ url: /cpp/aspose.tex.features/mathrenderer/render/
 Renders a math formula.
 
 ```cpp
-System::Drawing::SizeF Aspose::TeX::Features::MathRenderer::Render(System::String formula, System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Aspose::TeX::Features::MathRendererOptions> mathRendererOptions)
+System::Drawing::SizeF Aspose::TeX::Features::MathRenderer::Render(const System::String &formula, const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<Aspose::TeX::Features::MathRendererOptions> &mathRendererOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formula | System::String | The formula LaTeX program. |
-| stream | System::SharedPtr\<System::IO::Stream\> | The stream to write the output to. |
-| mathRendererOptions | System::SharedPtr\<Aspose::TeX::Features::MathRendererOptions\> | The rendering options. |
+| formula | const System::String\& | The formula LaTeX program. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to write the output to. |
+| mathRendererOptions | const System::SharedPtr\<Aspose::TeX::Features::MathRendererOptions\>\& | The rendering options. |
 
 ### ReturnValue
 

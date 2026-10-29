@@ -4,7 +4,7 @@ linktitle: set_JobName
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_JobName method. Gets/set the name of the job in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/aspose.tex/texoptions/set_jobname/
 ---
 ## TeXOptions::set_JobName method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_jobname/
 Gets/set the name of the job.
 
 ```cpp
-void Aspose::TeX::TeXOptions::set_JobName(System::String value)
+void Aspose::TeX::TeXOptions::set_JobName(const System::String &value)
 ```
 
 ## See Also

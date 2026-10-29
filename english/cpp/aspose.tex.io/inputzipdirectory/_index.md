@@ -22,9 +22,9 @@ class InputZipDirectory : public Aspose::TeX::IO::IInputWorkingDirectory,
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
-| [GetFile](./getfile/)(System::String, bool) override | Returns the stream to read from. |
-| [GetFileNamesByExtension](./getfilenamesbyextension/)(System::String, System::String) override | Returns the array of file names by an extension. |
-| [InputZipDirectory](./inputzipdirectory/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Creates new instance. |
+| [GetFile](./getfile/)(const System::String\&, bool) override | Returns the stream to read from. |
+| [GetFileNamesByExtension](./getfilenamesbyextension/)(const System::String\&, const System::String\&) override | Returns the array of file names by an extension. |
+| [InputZipDirectory](./inputzipdirectory/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Creates new instance. |
 ## See Also
 
 * Class [IInputWorkingDirectory](../iinputworkingdirectory/)

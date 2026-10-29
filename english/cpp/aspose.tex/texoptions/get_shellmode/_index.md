@@ -4,7 +4,7 @@ linktitle: get_ShellMode
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::get_ShellMode method. Determines the availability of \write18 in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.tex/texoptions/get_shellmode/
 ---
 ## TeXOptions::get_ShellMode method

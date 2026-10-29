@@ -4,7 +4,7 @@ linktitle: ArrayPtr
 second_title: Aspose.TeX for C++
 description: 'System::ArrayPtr typedef. Alias for ''pointer to array'' type in C++.'
 type: docs
-weight: 9500
+weight: 10100
 url: /cpp/system/arrayptr/
 ---
 ## ArrayPtr typedef

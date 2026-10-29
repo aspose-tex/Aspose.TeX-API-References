@@ -4,7 +4,7 @@ linktitle: WriteInt64
 second_title: Aspose.TeX for C++
 description: 'System::Runtime::InteropServices::Marshal::WriteInt64 method. Writes long to memory in C++.'
 type: docs
-weight: 2000
+weight: 2200
 url: /cpp/system.runtime.interopservices/marshal/writeint64/
 ---
 ## Marshal::WriteInt64 method
@@ -19,7 +19,7 @@ static void System::Runtime::InteropServices::Marshal::WriteInt64(IntPtr ptr, in
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 | value | int64_t | to write. |
 

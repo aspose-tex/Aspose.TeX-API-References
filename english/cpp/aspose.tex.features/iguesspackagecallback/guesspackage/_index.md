@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.features/iguesspackagecallback/guesspackage/
 Returns the name of a required package that supposedly defines the command or environment.
 
 ```cpp
-virtual System::String Aspose::TeX::Features::IGuessPackageCallback::GuessPackage(System::String commandName, bool isEnvironment)=0
+virtual System::String Aspose::TeX::Features::IGuessPackageCallback::GuessPackage(const System::String &commandName, bool isEnvironment)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commandName | System::String | The command name. |
+| commandName | const System::String\& | The command name. |
 | isEnvironment | bool | Specifies whether to guess a package for a command or an environment. |
 
 ### ReturnValue

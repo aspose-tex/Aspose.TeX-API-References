@@ -20,7 +20,7 @@ class Base64Exec : public Aspose::TeX::CommandLine::Executable
 
 | Method | Description |
 | --- | --- |
-| [Execute](./execute/)(System::ArrayPtr\<System::String\>) override | The method implementing the executable's behavior. |
+| [Execute](./execute/)(const System::ArrayPtr\<System::String\>\&) override | The method implementing the executable's behavior. |
 | [get_CommandName](./get_commandname/)() override | Gets the name of the executable (command). |
 ## See Also
 

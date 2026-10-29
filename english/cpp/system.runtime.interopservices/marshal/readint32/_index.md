@@ -4,7 +4,7 @@ linktitle: ReadInt32
 second_title: Aspose.TeX for C++
 description: 'System::Runtime::InteropServices::Marshal::ReadInt32 method. Reads int from memory in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.runtime.interopservices/marshal/readint32/
 ---
 ## Marshal::ReadInt32 method
@@ -19,7 +19,7 @@ static int32_t System::Runtime::InteropServices::Marshal::ReadInt32(IntPtr ptr, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 
 ### ReturnValue

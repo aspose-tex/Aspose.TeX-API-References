@@ -4,7 +4,7 @@ linktitle: Dispose
 second_title: Aspose.TeX for C++
 description: 'System::Threading::Tasks::Task::Dispose method. Releases resources associated with the task in C++.'
 type: docs
-weight: 800
+weight: 1000
 url: /cpp/system.threading.tasks/task/dispose/
 ---
 ## Task::Dispose method

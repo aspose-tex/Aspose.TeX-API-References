@@ -4,7 +4,7 @@ linktitle: operator==
 second_title: Aspose.TeX for C++
 description: 'System::String::operator== method. Equality comparison operator in C++.'
 type: docs
-weight: 3200
+weight: 3300
 url: /cpp/system/string/operator==/
 ---
 ## String::operator==(const String\&) const method

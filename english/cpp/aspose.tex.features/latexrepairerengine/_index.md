@@ -20,13 +20,13 @@ class LaTeXRepairerEngine : public ObjectTeXEngine
 
 | Method | Description |
 | --- | --- |
-| [ApplyFixes](./applyfixes/)(System::SharedPtr\<System::IO::MemoryStream\>, System::String, System::SharedPtr\<Aspose::TeX::IO::IOutputWorkingDirectory\>) |  |
+| [ApplyFixes](./applyfixes/)(const System::SharedPtr\<System::IO::MemoryStream\>\&, const System::String\&, const System::SharedPtr\<Aspose::TeX::IO::IOutputWorkingDirectory\>\&) |  |
 | [FixDocumentClass](./fixdocumentclass/)() |  |
 | [get_DoneFixes](./get_donefixes/)() |  |
-| [LaTeXRepairerEngine](./latexrepairerengine/)(System::String, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>) | Create a new instance. |
-| [LaTeXRepairerEngine](./latexrepairerengine/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>, System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerEngine\>, int32_t) |  |
+| [LaTeXRepairerEngine](./latexrepairerengine/)(const System::String\&, const System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>\&) | Create a new instance. |
+| [LaTeXRepairerEngine](./latexrepairerengine/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerOptions\>\&, const System::SharedPtr\<Aspose::TeX::Features::LaTeXRepairerEngine\>\&, int32_t) |  |
 | [set_Verbosity](./set_verbosity/)(Aspose::TeX::Verbosity) |  |
-| [WriteLog](./writelog/)(System::SharedPtr\<System::IO::StreamWriter\>) |  |
+| [WriteLog](./writelog/)(const System::SharedPtr\<System::IO::StreamWriter\>\&) |  |
 ## See Also
 
 * Namespace [Aspose::TeX::Features](../)

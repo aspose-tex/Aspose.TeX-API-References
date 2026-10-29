@@ -4,7 +4,7 @@ linktitle: FromAscii
 second_title: Aspose.TeX for C++
 description: 'System::String::FromAscii method. Creates String from ASCII string in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/system/string/fromascii/
 ---
 ## String::FromAscii(const char *) method

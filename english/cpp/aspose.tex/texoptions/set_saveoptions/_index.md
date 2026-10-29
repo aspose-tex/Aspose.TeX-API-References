@@ -4,7 +4,7 @@ linktitle: set_SaveOptions
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_SaveOptions method. Gets/sets options used for rendering into destination format (XPS, PDF, image, etc.). Default value is the set of default options for rendering to XPS in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/aspose.tex/texoptions/set_saveoptions/
 ---
 ## TeXOptions::set_SaveOptions method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_saveoptions/
 Gets/sets options used for rendering into destination format (XPS, PDF, image, etc.). Default value is the set of default options for rendering to XPS.
 
 ```cpp
-void Aspose::TeX::TeXOptions::set_SaveOptions(System::SharedPtr<Aspose::TeX::Presentation::SaveOptions> value)
+void Aspose::TeX::TeXOptions::set_SaveOptions(const System::SharedPtr<Aspose::TeX::Presentation::SaveOptions> &value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: UriKind
 second_title: Aspose.TeX for C++
 description: 'System::UriKind enum. Represents the kinds of URIs in C++.'
 type: docs
-weight: 9200
+weight: 9700
 url: /cpp/system/urikind/
 ---
 ## UriKind enum

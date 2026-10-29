@@ -4,7 +4,7 @@ linktitle: operator<
 second_title: Aspose.TeX for C++
 description: 'System::String::operator< method. Order-compares strings in C++.'
 type: docs
-weight: 3000
+weight: 3100
 url: /cpp/system/string/operator_/
 ---
 ## String::operator< method
@@ -37,7 +37,7 @@ linktitle: operator>
 second_title: Aspose.TeX for C++
 description: 'System::String::operator> method. Order-compares strings in C++.'
 type: docs
-weight: 3300
+weight: 3400
 url: /cpp/system/string/operator_/
 ---
 ## String::operator> method

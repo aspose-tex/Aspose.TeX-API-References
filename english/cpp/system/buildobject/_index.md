@@ -4,7 +4,7 @@ linktitle: BuildObject
 second_title: Aspose.TeX for C++
 description: 'System::BuildObject method. Build an object with shared ownership in C++.'
 type: docs
-weight: 15200
+weight: 15800
 url: /cpp/system/buildobject/
 ---
 ## System::BuildObject method

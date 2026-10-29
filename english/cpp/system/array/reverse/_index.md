@@ -4,7 +4,7 @@ linktitle: Reverse
 second_title: Aspose.TeX for C++
 description: 'System::Array::Reverse method. Reverses elements in the specified array in C++.'
 type: docs
-weight: 5700
+weight: 5900
 url: /cpp/system/array/reverse/
 ---
 ## Array::Reverse(const ArrayPtr\<Type\>\&) method
@@ -40,7 +40,7 @@ template<typename Type> static void System::Array<T>::Reverse(const ArrayPtr<Typ
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arr | const ArrayPtr\<Type\>\& | Target array |
-| startIndex | int | Index in the array at which the range to reverse start |
+| startIndex | int | [Index](../../index/) in the array at which the range to reverse start |
 | count | int | The size of the range to reverse |
 
 ## See Also

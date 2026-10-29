@@ -4,7 +4,7 @@ linktitle: Join
 second_title: Aspose.TeX for C++
 description: 'System::String::Join method. Joins array using string as separator in C++.'
 type: docs
-weight: 7300
+weight: 7400
 url: /cpp/system/string/join/
 ---
 ## String::Join(const String\&, const ArrayPtr\<SharedPtr\<Object\>\>\&) method

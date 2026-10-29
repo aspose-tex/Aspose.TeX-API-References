@@ -4,7 +4,7 @@ linktitle: UriShim
 second_title: Aspose.TeX for C++
 description: 'System::UriShim class. Service class in C++.'
 type: docs
-weight: 7000
+weight: 7500
 url: /cpp/system/urishim/
 ---
 ## UriShim class

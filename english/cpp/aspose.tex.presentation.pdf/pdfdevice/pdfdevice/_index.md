@@ -21,19 +21,19 @@ Aspose::TeX::Presentation::Pdf::PdfDevice::PdfDevice()
 * Class [PdfDevice](../)
 * Namespace [Aspose::TeX::Presentation::Pdf](../../)
 * Library [Aspose.TeX for C++](../../../)
-## PdfDevice::PdfDevice(System::SharedPtr\<System::IO::Stream\>) constructor
+## PdfDevice::PdfDevice(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Creates a new instance. The output file will be written to specified stream.
 
 ```cpp
-Aspose::TeX::Presentation::Pdf::PdfDevice::PdfDevice(System::SharedPtr<System::IO::Stream> stream)
+Aspose::TeX::Presentation::Pdf::PdfDevice::PdfDevice(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The stream to write the output file to. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to write the output file to. |
 
 ## See Also
 

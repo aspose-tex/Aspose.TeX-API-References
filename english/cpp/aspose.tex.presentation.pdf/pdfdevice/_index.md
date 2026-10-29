@@ -22,11 +22,11 @@ class PdfDevice : public Aspose::TeX::Presentation::Device,
 
 | Method | Description |
 | --- | --- |
-| [AddBookmark](./addbookmark/)(System::String, System::Drawing::PointF) override | Adds the bookmark identified by the name. |
+| [AddBookmark](./addbookmark/)(const System::String\&, System::Drawing::PointF) override | Adds the bookmark identified by the name. |
 | [EndFragment](./endfragment/)() override | Ends a fragment to rasterize. |
 | [get_PageCount](./get_pagecount/)() override | Gets the number of pages. |
 | [PdfDevice](./pdfdevice/)() | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
-| [PdfDevice](./pdfdevice/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new instance. The output file will be written to specified stream. |
+| [PdfDevice](./pdfdevice/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates a new instance. The output file will be written to specified stream. |
 | [StartFragment](./startfragment/)() override | Starts a fragment to rasterize. |
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: System::Reflection
 second_title: Aspose.TeX for C++
 description: 'How to use System::Reflection namespace in C++.'
 type: docs
-weight: 4000
+weight: 4100
 url: /cpp/system.reflection/
 ---
 

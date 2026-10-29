@@ -20,7 +20,7 @@ class Executable : public System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [Execute](./execute/)(System::ArrayPtr\<System::String\>) | The method implementing the executable's behavior. |
+| virtual [Execute](./execute/)(const System::ArrayPtr\<System::String\>\&) | The method implementing the executable's behavior. |
 | virtual [get_CommandName](./get_commandname/)() | Gets the name of the executable (command). |
 ## See Also
 

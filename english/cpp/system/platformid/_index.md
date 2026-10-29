@@ -4,7 +4,7 @@ linktitle: PlatformID
 second_title: Aspose.TeX for C++
 description: 'System::PlatformID enum. Represents an operating system platform in C++.'
 type: docs
-weight: 8400
+weight: 8900
 url: /cpp/system/platformid/
 ---
 ## PlatformID enum

@@ -21,7 +21,7 @@ class FormatProvider : public System::IDisposable
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
-| [FormatProvider](./formatprovider/)(System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>, System::String) | Creates a new instance. |
+| [FormatProvider](./formatprovider/)(const System::SharedPtr\<Aspose::TeX::IO::IInputWorkingDirectory\>\&, const System::String\&) | Creates a new instance. |
 | static [get_ObjectLaTeX](./get_objectlatex/)() | LaTeX format provider for ObjectTeX engine extension. |
 | static [get_ObjectTeX](./get_objecttex/)() | Default format provider for ObjectTeX engine extension. |
 ## See Also

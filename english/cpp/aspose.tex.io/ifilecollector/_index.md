@@ -20,7 +20,7 @@ class IFileCollector : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [GetFileNamesByExtension](./getfilenamesbyextension/)(System::String, System::String) | Returns the array of file names by an extension. |
+| virtual [GetFileNamesByExtension](./getfilenamesbyextension/)(const System::String\&, const System::String\&) | Returns the array of file names by an extension. |
 ## See Also
 
 * Class [Object](../../system/object/)

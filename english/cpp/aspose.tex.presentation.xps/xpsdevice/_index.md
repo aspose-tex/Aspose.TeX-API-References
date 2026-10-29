@@ -22,12 +22,12 @@ class XpsDevice : public Aspose::TeX::Presentation::Device,
 
 | Method | Description |
 | --- | --- |
-| [AddBookmark](./addbookmark/)(System::String, System::Drawing::PointF) override | Adds the bookmark identified by the name. |
+| [AddBookmark](./addbookmark/)(const System::String\&, System::Drawing::PointF) override | Adds the bookmark identified by the name. |
 | [EndFragment](./endfragment/)() override | Ends a fragment to rasterize. |
 | [get_PageCount](./get_pagecount/)() override | Gets the number of pages. |
 | [StartFragment](./startfragment/)() override | Starts a fragment to rasterize. |
 | [XpsDevice](./xpsdevice/)() | Creates a new instance. The output file will be written to the output working directory taking the job name as a file name. |
-| [XpsDevice](./xpsdevice/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new instance. The output file will be written to specified stream. |
+| [XpsDevice](./xpsdevice/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates a new instance. The output file will be written to specified stream. |
 ## See Also
 
 * Class [Device](../../aspose.tex.presentation/device/)

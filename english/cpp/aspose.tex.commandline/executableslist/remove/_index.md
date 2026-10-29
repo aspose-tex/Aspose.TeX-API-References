@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.commandline/executableslist/remove/
 Removes an executable by its name.
 
 ```cpp
-void Aspose::TeX::CommandLine::ExecutablesList::Remove(System::String commandName)
+void Aspose::TeX::CommandLine::ExecutablesList::Remove(const System::String &commandName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commandName | System::String | The name of an executable. |
+| commandName | const System::String\& | The name of an executable. |
 
 ## See Also
 

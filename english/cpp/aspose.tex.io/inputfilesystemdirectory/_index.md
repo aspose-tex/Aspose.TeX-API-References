@@ -22,9 +22,9 @@ class InputFileSystemDirectory : public virtual Aspose::TeX::IO::IInputWorkingDi
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
-| [GetFile](./getfile/)(System::String, bool) override | Returns the stream to read from. |
-| [GetFileNamesByExtension](./getfilenamesbyextension/)(System::String, System::String) override | Returns the array of file names by an extension. |
-| [InputFileSystemDirectory](./inputfilesystemdirectory/)(System::String) | Creates new instance. |
+| [GetFile](./getfile/)(const System::String\&, bool) override | Returns the stream to read from. |
+| [GetFileNamesByExtension](./getfilenamesbyextension/)(const System::String\&, const System::String\&) override | Returns the array of file names by an extension. |
+| [InputFileSystemDirectory](./inputfilesystemdirectory/)(const System::String\&) | Creates new instance. |
 ## See Also
 
 * Class [IInputWorkingDirectory](../iinputworkingdirectory/)

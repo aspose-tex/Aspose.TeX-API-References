@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepairerengine/applyfixes/
 
 
 ```cpp
-void Aspose::TeX::Features::LaTeXRepairerEngine::ApplyFixes(System::SharedPtr<System::IO::MemoryStream> stream, System::String fixedFileName, System::SharedPtr<Aspose::TeX::IO::IOutputWorkingDirectory> outputDirectory)
+void Aspose::TeX::Features::LaTeXRepairerEngine::ApplyFixes(const System::SharedPtr<System::IO::MemoryStream> &stream, const System::String &fixedFileName, const System::SharedPtr<Aspose::TeX::IO::IOutputWorkingDirectory> &outputDirectory)
 ```
 
 ## See Also

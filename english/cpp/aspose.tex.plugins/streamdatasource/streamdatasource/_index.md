@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/streamdatasource/streamdatasource/
 Creates a new stream data source.
 
 ```cpp
-Aspose::TeX::Plugins::StreamDataSource::StreamDataSource(System::SharedPtr<System::IO::Stream> data)
+Aspose::TeX::Plugins::StreamDataSource::StreamDataSource(const System::SharedPtr<System::IO::Stream> &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | System::SharedPtr\<System::IO::Stream\> | The stream. |
+| data | const System::SharedPtr\<System::IO::Stream\>\& | The stream. |
 
 ## See Also
 

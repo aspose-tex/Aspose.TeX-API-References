@@ -23,8 +23,8 @@ class License : public System::Object
 | [get_Embedded](./get_embedded/)() const | [License](./) number was added as embedded resource. |
 | [License](./license/)() | Initializes a new instance of this class. |
 | [set_Embedded](./set_embedded/)(bool) | [License](./) number was added as embedded resource. |
-| [SetLicense](./setlicense/)(System::String) | Licenses the component. |
-| [SetLicense](./setlicense/)(System::SharedPtr\<System::IO::Stream\>) | Licenses the component. |
+| [SetLicense](./setlicense/)(const System::String\&) | Licenses the component. |
+| [SetLicense](./setlicense/)(const System::SharedPtr\<System::IO::Stream\>\&) | Licenses the component. |
 ## See Also
 
 * Class [Object](../../system/object/)

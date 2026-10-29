@@ -4,7 +4,7 @@ linktitle: System::Xml::Schema
 second_title: Aspose.TeX for C++
 description: 'How to use System::Xml::Schema namespace in C++.'
 type: docs
-weight: 6700
+weight: 6800
 url: /cpp/system.xml.schema/
 ---
 

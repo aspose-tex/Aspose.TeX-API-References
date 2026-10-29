@@ -4,7 +4,7 @@ linktitle: UriHostNameType
 second_title: Aspose.TeX for C++
 description: 'System::UriHostNameType enum. Represents the type of host name in C++.'
 type: docs
-weight: 9100
+weight: 9600
 url: /cpp/system/urihostnametype/
 ---
 ## UriHostNameType enum

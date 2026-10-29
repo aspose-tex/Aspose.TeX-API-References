@@ -21,7 +21,7 @@ System::String Aspose::TeX::Presentation::Pdf::PdfEncryptionDetails::get_OwnerPa
 
 The owner password. 
 
-Opening the document with the correct owner password (assuming it is not the same as the user password) allows full (owner) access to the document. This unlimited access includes the ability to change the document’s passwords and access permissions. 
+Opening the document with the correct owner password (assuming it is not the same as the user password) allows full (owner) access to the document. This unlimited access includes the ability to change the documentвЂ™s passwords and access permissions. 
 ## See Also
 
 * Class [String](../../../system/string/)

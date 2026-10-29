@@ -4,7 +4,7 @@ linktitle: FunctionT
 second_title: Aspose.TeX for C++
 description: 'System::Threading::Tasks::Task::FunctionT typedef. Internal implementation. Not for user code in C++.'
 type: docs
-weight: 2600
+weight: 2900
 url: /cpp/system.threading.tasks/task/functiont/
 ---
 ## FunctionT typedef

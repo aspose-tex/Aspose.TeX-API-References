@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/iplugin/process/
 Runs plugin execution with defined options.
 
 ```cpp
-virtual System::SharedPtr<Aspose::TeX::Plugins::ResultContainer> Aspose::TeX::Plugins::IPlugin::Process(System::SharedPtr<Aspose::TeX::Plugins::IPluginOptions> options)=0
+virtual System::SharedPtr<Aspose::TeX::Plugins::ResultContainer> Aspose::TeX::Plugins::IPlugin::Process(const System::SharedPtr<Aspose::TeX::Plugins::IPluginOptions> &options)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<Aspose::TeX::Plugins::IPluginOptions\> | An options instance. |
+| options | const System::SharedPtr\<Aspose::TeX::Plugins::IPluginOptions\>\& | An options instance. |
 
 ### ReturnValue
 

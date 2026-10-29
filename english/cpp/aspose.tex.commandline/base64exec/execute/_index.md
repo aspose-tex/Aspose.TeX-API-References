@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.commandline/base64exec/execute/
 The method implementing the executable's behavior.
 
 ```cpp
-void Aspose::TeX::CommandLine::Base64Exec::Execute(System::ArrayPtr<System::String> args) override
+void Aspose::TeX::CommandLine::Base64Exec::Execute(const System::ArrayPtr<System::String> &args) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| args | System::ArrayPtr\<System::String\> | The array of command line arguments. |
+| args | const System::ArrayPtr\<System::String\>\& | The array of command line arguments. |
 
 ## See Also
 

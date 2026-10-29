@@ -20,7 +20,7 @@ class IInteractiveDevice : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [AddBookmark](./addbookmark/)(System::String, System::Drawing::PointF) | Adds the bookmark identified by the name. |
+| virtual [AddBookmark](./addbookmark/)(const System::String\&, System::Drawing::PointF) | Adds the bookmark identified by the name. |
 ## See Also
 
 * Class [Object](../../system/object/)

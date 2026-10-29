@@ -22,8 +22,8 @@ class OutputFileSystemDirectory : public Aspose::TeX::IO::InputFileSystemDirecto
 | Method | Description |
 | --- | --- |
 | [Dispose](./dispose/)() override | Disposes the instance. |
-| [GetOutputFile](./getoutputfile/)(System::String) override | Returns the stream to write to. |
-| [OutputFileSystemDirectory](./outputfilesystemdirectory/)(System::String) | Creates new instance. |
+| [GetOutputFile](./getoutputfile/)(const System::String\&) override | Returns the stream to write to. |
+| [OutputFileSystemDirectory](./outputfilesystemdirectory/)(const System::String\&) | Creates new instance. |
 ## See Also
 
 * Class [InputFileSystemDirectory](../inputfilesystemdirectory/)

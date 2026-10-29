@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.resourceproviders/texsourceformatprovider/getformat/
 Gets the stream containing format file.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::TeX::ResourceProviders::TeXSourceFormatProvider::GetFormat(System::String fileName=nullptr) override
+System::SharedPtr<System::IO::Stream> Aspose::TeX::ResourceProviders::TeXSourceFormatProvider::GetFormat(const System::String &fileName=nullptr) override
 ```
 
 

@@ -4,7 +4,7 @@ linktitle: System::Runtime::CompilerServices
 second_title: Aspose.TeX for C++
 description: 'How to use System::Runtime::CompilerServices namespace in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/system.runtime.compilerservices/
 ---
 
@@ -23,5 +23,6 @@ url: /cpp/system.runtime.compilerservices/
 | [ResultValueTaskAwaiter](./resultvaluetaskawaiter/) |  |
 | [RuntimeHelpers](./runtimehelpers/) | Helper class to get some object information in runtime. |
 | [TaskAwaiter](./taskawaiter/) |  |
+| [Unsafe](./unsafe/) | Provides low-level operations for unsafe memory manipulation. |
 | [ValueTaskAwaiter](./valuetaskawaiter/) |  |
-| [YieldAwaitable](./yieldawaitable/) |  |
+| [YieldAwaitable](./yieldawaitable/) | An awaitable type that is returned from TaskUtils::Yield(). |

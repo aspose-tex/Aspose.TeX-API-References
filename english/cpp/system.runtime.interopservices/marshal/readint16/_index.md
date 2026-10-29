@@ -4,7 +4,7 @@ linktitle: ReadInt16
 second_title: Aspose.TeX for C++
 description: 'System::Runtime::InteropServices::Marshal::ReadInt16 method. Reads short from memory in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/system.runtime.interopservices/marshal/readint16/
 ---
 ## Marshal::ReadInt16 method
@@ -19,7 +19,7 @@ static int16_t System::Runtime::InteropServices::Marshal::ReadInt16(IntPtr ptr, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 
 ### ReturnValue

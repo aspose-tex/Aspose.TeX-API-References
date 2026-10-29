@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.io/inputzipdirectory/getfile/
 Returns the stream to read from.
 
 ```cpp
-System::SharedPtr<Aspose::TeX::IO::NamedStream> Aspose::TeX::IO::InputZipDirectory::GetFile(System::String fileName, bool searchSubdirectories=false) override
+System::SharedPtr<Aspose::TeX::IO::NamedStream> Aspose::TeX::IO::InputZipDirectory::GetFile(const System::String &fileName, bool searchSubdirectories=false) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | The file name. |
+| fileName | const System::String\& | The file name. |
 | searchSubdirectories | bool | Indicates whether to look for a file in subdirectories. |
 
 ### ReturnValue

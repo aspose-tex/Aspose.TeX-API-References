@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.commandline/executable/execute/
 The method implementing the executable's behavior.
 
 ```cpp
-virtual void Aspose::TeX::CommandLine::Executable::Execute(System::ArrayPtr<System::String> args)=0
+virtual void Aspose::TeX::CommandLine::Executable::Execute(const System::ArrayPtr<System::String> &args)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| args | System::ArrayPtr\<System::String\> | The array of command line arguments. |
+| args | const System::ArrayPtr\<System::String\>\& | The array of command line arguments. |
 
 ## See Also
 

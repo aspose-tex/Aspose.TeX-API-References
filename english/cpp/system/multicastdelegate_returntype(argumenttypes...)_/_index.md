@@ -4,7 +4,7 @@ linktitle: MulticastDelegate< ReturnType(ArgumentTypes...)>
 second_title: Aspose.TeX for C++
 description: 'System::MulticastDelegate< ReturnType(ArgumentTypes...)> class. Represents a collection of delegates. This type should be allocated on stack and passed to functions by value or by reference. Never use System::SmartPtr class to manage objects of this type in C++.'
 type: docs
-weight: 4500
+weight: 4800
 url: /cpp/system/multicastdelegate_returntype(argumenttypes...)_/
 ---
 ## MulticastDelegate< ReturnType(ArgumentTypes...)> class
@@ -38,6 +38,7 @@ template<class ReturnType,class...>class MulticastDelegate< ReturnType(ArgumentT
 | [disconnect_all_slots](./disconnect_all_slots/)() | Removes all delegates from the delegate collection. |
 | [empty](./empty/)() const | Determines whether the delegate collection is empty. |
 | [EndInvoke](./endinvoke/)(const SharedPtr\<IAsyncResult\>\&) | NOT IMPLEMENTED. |
+| [Equals](./equals/)(const MulticastDelegate\&) |  |
 | [GetHashCode](./gethashcode/)() const |  |
 | [GetType](./gettype/)() const |  |
 | [invoke](./invoke/)(ArgumentTypes...) const | Invokes all delegates currently present in the delegates collection. Delegates are invoked in the same order as they were added to the collection. The method blocks while the delegates are executed. |
@@ -67,6 +68,7 @@ template<class ReturnType,class...>class MulticastDelegate< ReturnType(ArgumentT
 | Typedef | Description |
 | --- | --- |
 | [Callback](./callback/) | The type of the delegates represented by the MulticastDelegate class. |
+| [Function](./function/) | The type of the function related to delegate signature. |
 
 ## See Also
 

@@ -4,7 +4,7 @@ linktitle: set_RequiredInputDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_RequiredInputDirectory method. Gets/sets the directory for the required input, e.g., packages that are beyond Aspose.TeX''s LaTeX support in C++.'
 type: docs
-weight: 2500
+weight: 2600
 url: /cpp/aspose.tex/texoptions/set_requiredinputdirectory/
 ---
 ## TeXOptions::set_RequiredInputDirectory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex/texoptions/set_requiredinputdirectory/
 Gets/sets the directory for the required input, e.g., packages that are beyond [Aspose.TeX](../../)'s LaTeX support.
 
 ```cpp
-void Aspose::TeX::TeXOptions::set_RequiredInputDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
+void Aspose::TeX::TeXOptions::set_RequiredInputDirectory(const System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> &value)
 ```
 
 ## See Also

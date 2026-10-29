@@ -4,7 +4,7 @@ linktitle: Set
 second_title: Aspose.TeX for C++
 description: 'System::Set method. Implements ''var'' pattern translation in C++.'
 type: docs
-weight: 37000
+weight: 38100
 url: /cpp/system/set/
 ---
 ## System::Set method

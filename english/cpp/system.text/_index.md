@@ -4,7 +4,7 @@ linktitle: System::Text
 second_title: Aspose.TeX for C++
 description: 'How to use System::Text namespace in C++.'
 type: docs
-weight: 5400
+weight: 5500
 url: /cpp/system.text/
 ---
 

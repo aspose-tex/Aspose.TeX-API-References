@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/stringdatasource/stringdatasource/
 Creates a new string data source.
 
 ```cpp
-Aspose::TeX::Plugins::StringDataSource::StringDataSource(System::String data)
+Aspose::TeX::Plugins::StringDataSource::StringDataSource(const System::String &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | System::String | The string data. |
+| data | const System::String\& | The string data. |
 
 ## See Also
 

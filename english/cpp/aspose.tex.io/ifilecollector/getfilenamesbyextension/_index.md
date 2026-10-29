@@ -13,14 +13,14 @@ url: /cpp/aspose.tex.io/ifilecollector/getfilenamesbyextension/
 Returns the array of file names by an extension.
 
 ```cpp
-virtual System::ArrayPtr<System::String> Aspose::TeX::IO::IFileCollector::GetFileNamesByExtension(System::String extension, System::String path=nullptr)=0
+virtual System::ArrayPtr<System::String> Aspose::TeX::IO::IFileCollector::GetFileNamesByExtension(const System::String &extension, const System::String &path=nullptr)=0
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extension | System::String | The file extension. |
-| path | System::String | The path inside the directory. |
+| extension | const System::String\& | The file extension. |
+| path | const System::String\& | The path inside the directory. |
 
 ### ReturnValue
 

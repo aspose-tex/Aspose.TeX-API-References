@@ -25,11 +25,11 @@ class PdfDigitalSignatureDetails : public System::Object
 | [get_Location](./get_location/)() const | Location of signing. |
 | [get_Reason](./get_reason/)() const | The reason of signing. |
 | [get_SignatureDate](./get_signaturedate/)() const | Date of signing. |
-| [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails/)(System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>, System::String, System::String, System::DateTime, Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm) | Initializes a new instance of the [PdfDigitalSignatureDetails](./) class. |
-| [set_Certificate](./set_certificate/)(System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>) | Certificate to sign with. |
+| [PdfDigitalSignatureDetails](./pdfdigitalsignaturedetails/)(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, const System::String\&, const System::String\&, System::DateTime, Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm) | Initializes a new instance of the [PdfDigitalSignatureDetails](./) class. |
+| [set_Certificate](./set_certificate/)(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&) | Certificate to sign with. |
 | [set_HashAlgorithm](./set_hashalgorithm/)(Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureHashAlgorithm) | Hash algorithm. |
-| [set_Location](./set_location/)(System::String) | Location of signing. |
-| [set_Reason](./set_reason/)(System::String) | The reason of signing. |
+| [set_Location](./set_location/)(const System::String\&) | Location of signing. |
+| [set_Reason](./set_reason/)(const System::String\&) | The reason of signing. |
 | [set_SignatureDate](./set_signaturedate/)(System::DateTime) | Date of signing. |
 | [ToCore](./tocore/)() |  |
 ## See Also

@@ -4,7 +4,7 @@ linktitle: operator()
 second_title: Aspose.TeX for C++
 description: 'System::Comparison::operator() method. Invokes the invokable object pointed to by the current object in C++.'
 type: docs
-weight: 200
+weight: 100
 url: /cpp/system/comparison/operator()/
 ---
 ## Comparison::operator() method

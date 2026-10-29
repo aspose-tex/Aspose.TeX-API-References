@@ -4,7 +4,7 @@ linktitle: SetValue
 second_title: Aspose.TeX for C++
 description: 'System::Array::SetValue method. Sets value of the element at specified index in C++.'
 type: docs
-weight: 4100
+weight: 4200
 url: /cpp/system/array/setvalue/
 ---
 ## Array::SetValue method
@@ -20,7 +20,7 @@ void System::Array<T>::SetValue(const T &value, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const T\& | A const reference to the value to set |
-| index | int | Index of the element |
+| index | int | [Index](../../index/) of the element |
 
 ## See Also
 

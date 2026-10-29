@@ -20,9 +20,9 @@ class ExecutablesList : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<Aspose::TeX::CommandLine::Executable\>) | Adds a new executable to the collection. |
+| [Add](./add/)(const System::SharedPtr\<Aspose::TeX::CommandLine::Executable\>\&) | Adds a new executable to the collection. |
 | [get_List](./get_list/)() | Displays the collection as a read-only list of executables' names. |
-| [Remove](./remove/)(System::String) | Removes an executable by its name. |
+| [Remove](./remove/)(const System::String\&) | Removes an executable by its name. |
 ## See Also
 
 * Class [Object](../../system/object/)

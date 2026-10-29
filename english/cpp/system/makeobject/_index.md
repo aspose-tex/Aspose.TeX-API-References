@@ -4,7 +4,7 @@ linktitle: MakeObject
 second_title: Aspose.TeX for C++
 description: 'System::MakeObject method. Creates object on heap and returns shared pointer to it in C++.'
 type: docs
-weight: 24500
+weight: 25400
 url: /cpp/system/makeobject/
 ---
 ## System::MakeObject(Args\&&...) method

@@ -4,7 +4,7 @@ linktitle: Greater
 second_title: Aspose.TeX for C++
 description: 'System::Greater method. Implements ''>'' relative pattern translation in C++.'
 type: docs
-weight: 21700
+weight: 22500
 url: /cpp/system/greater/
 ---
 ## System::Greater method
@@ -29,7 +29,7 @@ template<class ExpressionT,class ConstantT> bool System::Greater(const Expressio
 
 ### ReturnValue
 
-true if type check is successfull, false otherwise.
+true if type check is successful, false otherwise.
 
 ## See Also
 

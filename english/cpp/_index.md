@@ -5,7 +5,7 @@ type: docs
 weight: 10
 url: /cpp/
 keywords: "Aspose.TeX for C++, Aspose TeX, Aspose API Reference."
-description: "Aspose.TeX is a class library that can be used by developers for various platforms for a variety of TeX processing tasks."
+description: "Aspose.TeX is a class library that can be used by developers for various platforms for a variety of tex processing tasks."
 is_root: true
 ---
 
@@ -25,6 +25,7 @@ is_root: true
 | [Aspose::TeX::Presentation::Xps](./aspose.tex.presentation.xps/) | The **[Aspose.TeX.Presentation.Xps](./aspose.tex.presentation.xps/)** namespace provides classes for typesetting [TeX](./aspose.tex/) files to XPS. |
 | [Aspose::TeX::ResourceProviders](./aspose.tex.resourceproviders/) | The **[Aspose.TeX.ResourceProviders](./aspose.tex.resourceproviders/)** namespace provides common classes for resource providers. |
 | [System](./system/) |  |
+| [System::Buffers](./system.buffers/) |  |
 | [System::Collections](./system.collections/) |  |
 | [System::Collections::Concurrent](./system.collections.concurrent/) |  |
 | [System::Collections::Generic](./system.collections.generic/) |  |

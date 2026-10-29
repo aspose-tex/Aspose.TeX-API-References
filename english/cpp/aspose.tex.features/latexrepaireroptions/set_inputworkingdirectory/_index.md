@@ -4,7 +4,7 @@ linktitle: set_InputWorkingDirectory
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::LaTeXRepairerOptions::set_InputWorkingDirectory method. Gets/sets input working directory in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.tex.features/latexrepaireroptions/set_inputworkingdirectory/
 ---
 ## LaTeXRepairerOptions::set_InputWorkingDirectory method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepaireroptions/set_inputworkingdirectory/
 Gets/sets input working directory.
 
 ```cpp
-void Aspose::TeX::Features::LaTeXRepairerOptions::set_InputWorkingDirectory(System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> value)
+void Aspose::TeX::Features::LaTeXRepairerOptions::set_InputWorkingDirectory(const System::SharedPtr<Aspose::TeX::IO::IInputWorkingDirectory> &value)
 ```
 
 ## See Also

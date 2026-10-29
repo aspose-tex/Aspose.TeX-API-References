@@ -4,7 +4,7 @@ linktitle: set_Preamble
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::set_Preamble method. Gets/sets LaTeX document preamble in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/aspose.tex.features/figurerendereroptions/set_preamble/
 ---
 ## FigureRendererOptions::set_Preamble method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerendereroptions/set_preamble/
 Gets/sets LaTeX document preamble.
 
 ```cpp
-void Aspose::TeX::Features::FigureRendererOptions::set_Preamble(System::String value)
+void Aspose::TeX::Features::FigureRendererOptions::set_Preamble(const System::String &value)
 ```
 
 ## See Also

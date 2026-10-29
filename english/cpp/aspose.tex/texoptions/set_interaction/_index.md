@@ -4,7 +4,7 @@ linktitle: set_Interaction
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::TeXOptions::set_Interaction method. Gets/sets the interaction mode to run a TeX engine in in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/aspose.tex/texoptions/set_interaction/
 ---
 ## TeXOptions::set_Interaction method

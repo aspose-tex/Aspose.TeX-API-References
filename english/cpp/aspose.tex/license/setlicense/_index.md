@@ -7,19 +7,19 @@ type: docs
 weight: 400
 url: /cpp/aspose.tex/license/setlicense/
 ---
-## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method
+## License::SetLicense(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Licenses the component.
 
 ```cpp
-void Aspose::TeX::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::TeX::License::SetLicense(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | A stream that contains the license. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | A stream that contains the license. |
 ## Remarks
 
 
@@ -34,13 +34,13 @@ Use this method to load a license from a stream.
 * Class [License](../)
 * Namespace [Aspose::TeX](../../)
 * Library [Aspose.TeX for C++](../../../)
-## License::SetLicense(System::String) method
+## License::SetLicense(const System::String\&) method
 
 
 Licenses the component.
 
 ```cpp
-void Aspose::TeX::License::SetLicense(System::String licenseName)
+void Aspose::TeX::License::SetLicense(const System::String &licenseName)
 ```
 
 ## Remarks

@@ -4,7 +4,7 @@ linktitle: CompareOrdinal
 second_title: Aspose.TeX for C++
 description: 'System::String::CompareOrdinal method. Less-equal-greater-compares two strings using ordinal mode in C++.'
 type: docs
-weight: 6300
+weight: 6400
 url: /cpp/system/string/compareordinal/
 ---
 ## String::CompareOrdinal(const String\&, const String\&) method

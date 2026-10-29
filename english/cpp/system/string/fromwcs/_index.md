@@ -4,7 +4,7 @@ linktitle: FromWCS
 second_title: Aspose.TeX for C++
 description: 'System::String::FromWCS method. Creates String from widestring in C++.'
 type: docs
-weight: 7100
+weight: 7200
 url: /cpp/system/string/fromwcs/
 ---
 ## String::FromWCS method

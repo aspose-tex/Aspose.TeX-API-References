@@ -4,7 +4,7 @@ linktitle: ValueTuple
 second_title: Aspose.TeX for C++
 description: 'System::ValueTuple class. Class that represents a ValueTuple data structure in C++.'
 type: docs
-weight: 7100
+weight: 7600
 url: /cpp/system/valuetuple/
 ---
 ## ValueTuple class
@@ -21,6 +21,7 @@ template<typename ...>class ValueTuple : public System::Details::BoxableObjectBa
 | Method | Description |
 | --- | --- |
 | [Equals](./equals/)(SharedPtr\<Object\>) | Determines if the current and the specified objects are identical. |
+| [Equals](./equals/)(const ValueTuple\&) |  |
 | [GetHashCode](./gethashcode/)() const |  |
 | [GetType](./gettype/)() const |  |
 | [Item](./item/)() | Gets the reference to value of the [ValueTuple](./) object's component. |

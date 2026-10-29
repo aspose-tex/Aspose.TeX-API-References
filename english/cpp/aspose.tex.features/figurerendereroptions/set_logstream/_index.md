@@ -4,7 +4,7 @@ linktitle: set_LogStream
 second_title: Aspose.TeX for C++
 description: 'Aspose::TeX::Features::FigureRendererOptions::set_LogStream method. Gets/set the stream to write log output to in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.tex.features/figurerendereroptions/set_logstream/
 ---
 ## FigureRendererOptions::set_LogStream method
@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/figurerendereroptions/set_logstream/
 Gets/set the stream to write log output to.
 
 ```cpp
-void Aspose::TeX::Features::FigureRendererOptions::set_LogStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::TeX::Features::FigureRendererOptions::set_LogStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

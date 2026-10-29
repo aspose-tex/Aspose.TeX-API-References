@@ -4,7 +4,7 @@ linktitle: Null
 second_title: Aspose.TeX for C++
 description: 'System::String::Null field. Null string in C++.'
 type: docs
-weight: 7500
+weight: 7600
 url: /cpp/system/string/null/
 ---
 ## Null field

@@ -4,7 +4,7 @@ linktitle: System::ComponentModel
 second_title: Aspose.TeX for C++
 description: 'How to use System::ComponentModel namespace in C++.'
 type: docs
-weight: 1800
+weight: 1900
 url: /cpp/system.componentmodel/
 ---
 

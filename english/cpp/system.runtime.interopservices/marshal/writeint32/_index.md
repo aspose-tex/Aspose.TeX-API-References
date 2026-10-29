@@ -4,7 +4,7 @@ linktitle: WriteInt32
 second_title: Aspose.TeX for C++
 description: 'System::Runtime::InteropServices::Marshal::WriteInt32 method. Writes int to memory in C++.'
 type: docs
-weight: 1900
+weight: 2100
 url: /cpp/system.runtime.interopservices/marshal/writeint32/
 ---
 ## Marshal::WriteInt32 method
@@ -19,7 +19,7 @@ static void System::Runtime::InteropServices::Marshal::WriteInt32(IntPtr ptr, in
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 | value | int32_t | to write. |
 

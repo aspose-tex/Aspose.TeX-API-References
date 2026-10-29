@@ -4,7 +4,7 @@ linktitle: Empty
 second_title: Aspose.TeX for C++
 description: 'System::String::Empty field. Empty string in C++.'
 type: docs
-weight: 7400
+weight: 7500
 url: /cpp/system/string/empty/
 ---
 ## Empty field

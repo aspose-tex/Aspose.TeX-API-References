@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.features/latexrepairerengine/writelog/
 
 
 ```cpp
-void Aspose::TeX::Features::LaTeXRepairerEngine::WriteLog(System::SharedPtr<System::IO::StreamWriter> logWriter)
+void Aspose::TeX::Features::LaTeXRepairerEngine::WriteLog(const System::SharedPtr<System::IO::StreamWriter> &logWriter)
 ```
 
 ## See Also

@@ -1,0 +1,37 @@
+---
+title: System::Runtime::InteropServices::MemoryMarshal::AsBytes method
+linktitle: AsBytes
+second_title: Aspose.TeX for C++
+description: 'System::Runtime::InteropServices::MemoryMarshal::AsBytes method. Casts a Span of one primitive type T to Span of bytes in C++.'
+type: docs
+weight: 100
+url: /cpp/system.runtime.interopservices/memorymarshal/asbytes/
+---
+## MemoryMarshal::AsBytes method
+
+
+Casts a [Span](../../../system/span/) of one primitive type T to [Span](../../../system/span/) of bytes.
+
+```cpp
+template<typename T> static Span<uint8_t> System::Runtime::InteropServices::MemoryMarshal::AsBytes(const Span<T> &span)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | The type of elements in the span. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| span | const Span\<T\>\& | The span to cast. |
+
+### ReturnValue
+
+A span of bytes representing the same memory as the original span.
+
+## See Also
+
+* Class [Span](../../../system/span/)
+* Class [MemoryMarshal](../)
+* Namespace [System::Runtime::InteropServices](../../)
+* Library [Aspose.TeX for C++](../../../)

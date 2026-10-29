@@ -13,7 +13,7 @@ url: /cpp/aspose.tex.presentation.pdf/pdfdigitalsignaturedetails/set_reason/
 The reason of signing.
 
 ```cpp
-void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Reason(System::String value)
+void Aspose::TeX::Presentation::Pdf::PdfDigitalSignatureDetails::set_Reason(const System::String &value)
 ```
 
 ## Remarks

@@ -21,7 +21,7 @@ class NondisposableMemoryStream : public System::IO::MemoryStream
 | Method | Description |
 | --- | --- |
 | [NondisposableMemoryStream](./nondisposablememorystream/)() | Creates a new instance. |
-| [NondisposableMemoryStream](./nondisposablememorystream/)(System::SharedPtr\<System::IO::Stream\>) | Creates a new instance using some data stream. |
+| [NondisposableMemoryStream](./nondisposablememorystream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates a new instance using some data stream. |
 ## Fields
 
 | Field | Description |

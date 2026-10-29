@@ -4,7 +4,7 @@ linktitle: DynamicCast
 second_title: Aspose.TeX for C++
 description: 'System::DynamicCast method. Performs dynamic cast on Exception objects in C++.'
 type: docs
-weight: 16900
+weight: 17500
 url: /cpp/system/dynamiccast/
 ---
 ## System::DynamicCast(const TFrom\&) method

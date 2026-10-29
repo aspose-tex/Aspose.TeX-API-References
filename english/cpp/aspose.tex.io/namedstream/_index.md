@@ -23,7 +23,7 @@ class NamedStream : public System::IDisposable
 | [Dispose](./dispose/)() override | Disposes the current instance. |
 | [get_FullName](./get_fullname/)() const | Gets the full name of the stream. |
 | [get_Stream](./get_stream/)() const | Gets the stream itself. |
-| [NamedStream](./namedstream/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Creates a new instance. |
+| [NamedStream](./namedstream/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Creates a new instance. |
 ## See Also
 
 * Class [IDisposable](../../system/idisposable/)

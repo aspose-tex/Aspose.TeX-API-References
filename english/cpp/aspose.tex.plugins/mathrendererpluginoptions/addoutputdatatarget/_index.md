@@ -13,13 +13,13 @@ url: /cpp/aspose.tex.plugins/mathrendererpluginoptions/addoutputdatatarget/
 Adds a new input data target to the collection.
 
 ```cpp
-void Aspose::TeX::Plugins::MathRendererPluginOptions::AddOutputDataTarget(System::SharedPtr<Aspose::TeX::Plugins::IDataSource> dataTarget) override
+void Aspose::TeX::Plugins::MathRendererPluginOptions::AddOutputDataTarget(const System::SharedPtr<Aspose::TeX::Plugins::IDataSource> &dataTarget) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dataTarget | System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\> | The data target. |
+| dataTarget | const System::SharedPtr\<Aspose::TeX::Plugins::IDataSource\>\& | The data target. |
 
 ## See Also
 

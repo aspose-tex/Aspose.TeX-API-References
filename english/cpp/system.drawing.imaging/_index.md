@@ -4,7 +4,7 @@ linktitle: System::Drawing::Imaging
 second_title: Aspose.TeX for C++
 description: 'How to use System::Drawing::Imaging namespace in C++.'
 type: docs
-weight: 2600
+weight: 2700
 url: /cpp/system.drawing.imaging/
 ---
 

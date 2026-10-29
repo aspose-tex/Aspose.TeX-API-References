@@ -22,7 +22,7 @@ class StringDataSource : public Aspose::TeX::Plugins::IDataSource
 | --- | --- |
 | [get_Data](./get_data/)() const | Gets the underlying string. |
 | [get_DataType](./get_datatype/)() override | The data source type. |
-| [StringDataSource](./stringdatasource/)(System::String) | Creates a new string data source. |
+| [StringDataSource](./stringdatasource/)(const System::String\&) | Creates a new string data source. |
 ## See Also
 
 * Class [IDataSource](../idatasource/)

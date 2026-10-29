@@ -13,13 +13,13 @@ url: /cpp/aspose.tex/texconfig/objecttex/
 Gets the configuration of ObjectTeX engine extension with provided format preloaded.
 
 ```cpp
-static System::SharedPtr<Aspose::TeX::TeXConfig> Aspose::TeX::TeXConfig::ObjectTeX(System::SharedPtr<Aspose::TeX::ResourceProviders::FormatProvider> formatProvider=nullptr)
+static System::SharedPtr<Aspose::TeX::TeXConfig> Aspose::TeX::TeXConfig::ObjectTeX(const System::SharedPtr<Aspose::TeX::ResourceProviders::FormatProvider> &formatProvider=nullptr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatProvider | System::SharedPtr\<Aspose::TeX::ResourceProviders::FormatProvider\> | The format provider. If left equal to null then default ObjectTeX format (which is essentially Plain [TeX](../../)) will be loaded. |
+| formatProvider | const System::SharedPtr\<Aspose::TeX::ResourceProviders::FormatProvider\>\& | The format provider. If left equal to null then default ObjectTeX format (which is essentially Plain [TeX](../../)) will be loaded. |
 
 ### ReturnValue
 

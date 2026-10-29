@@ -4,7 +4,7 @@ linktitle: Boolean
 second_title: Aspose.TeX for C++
 description: 'System::Boolean class. Class that keeps static members of System.Boolean .Net type in C++.'
 type: docs
-weight: 600
+weight: 700
 url: /cpp/system/boolean/
 ---
 ## Boolean class

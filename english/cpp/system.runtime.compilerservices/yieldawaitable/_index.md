@@ -2,15 +2,15 @@
 title: System::Runtime::CompilerServices::YieldAwaitable class
 linktitle: YieldAwaitable
 second_title: Aspose.TeX for C++
-description: 'How to use System::Runtime::CompilerServices::YieldAwaitable class in C++.'
+description: 'System::Runtime::CompilerServices::YieldAwaitable class. An awaitable type that is returned from TaskUtils::Yield() in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/system.runtime.compilerservices/yieldawaitable/
 ---
 ## YieldAwaitable class
 
 
-
+An awaitable type that is returned from TaskUtils::Yield().
 
 ```cpp
 class YieldAwaitable
@@ -23,7 +23,11 @@ class YieldAwaitable
 
 | Method | Description |
 | --- | --- |
-| [GetAwaiter](./getawaiter/)() const |  |
+| [GetAwaiter](./getawaiter/)() const | Gets the awaiter for this awaitable. |
+## Remarks
+
+
+This type enables yielding control back to the calling context in asynchronous methods. 
 ## See Also
 
 * Namespace [System::Runtime::CompilerServices](../)

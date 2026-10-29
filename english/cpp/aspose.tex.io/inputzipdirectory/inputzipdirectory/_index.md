@@ -13,14 +13,14 @@ url: /cpp/aspose.tex.io/inputzipdirectory/inputzipdirectory/
 Creates new instance.
 
 ```cpp
-Aspose::TeX::IO::InputZipDirectory::InputZipDirectory(System::SharedPtr<System::IO::Stream> zipStream, System::String basePath)
+Aspose::TeX::IO::InputZipDirectory::InputZipDirectory(const System::SharedPtr<System::IO::Stream> &zipStream, const System::String &basePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| zipStream | System::SharedPtr\<System::IO::Stream\> | The stream to read the archive from. |
-| basePath | System::String | The base path inside the ZIP archive. |
+| zipStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to read the archive from. |
+| basePath | const System::String\& | The base path inside the ZIP archive. |
 
 ## See Also
 

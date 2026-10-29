@@ -4,7 +4,7 @@ linktitle: SetCharAt
 second_title: Aspose.TeX for C++
 description: 'System::String::SetCharAt method. Sets character at specified position in C++.'
 type: docs
-weight: 4200
+weight: 4300
 url: /cpp/system/string/setcharat/
 ---
 ## String::SetCharAt method
@@ -19,7 +19,7 @@ String & System::String::SetCharAt(int index, char_t ch)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to set character at. |
+| index | int | [Index](../../index/) to set character at. |
 | ch | char_t | Character to put at specified position. |
 
 ### ReturnValue

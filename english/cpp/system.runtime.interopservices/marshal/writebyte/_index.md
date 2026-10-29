@@ -4,7 +4,7 @@ linktitle: WriteByte
 second_title: Aspose.TeX for C++
 description: 'System::Runtime::InteropServices::Marshal::WriteByte method. Writes byte to memory in C++.'
 type: docs
-weight: 1700
+weight: 1900
 url: /cpp/system.runtime.interopservices/marshal/writebyte/
 ---
 ## Marshal::WriteByte(IntPtr, int, uint8_t) method
@@ -19,7 +19,7 @@ static void System::Runtime::InteropServices::Marshal::WriteByte(IntPtr ptr, int
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | offset | int | Offset to memory buffer. |
 | value | uint8_t | to write. |
 
@@ -40,7 +40,7 @@ static void System::Runtime::InteropServices::Marshal::WriteByte(IntPtr ptr, uin
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ptr | IntPtr | Memory buffer. |
+| ptr | IntPtr | [Memory](../../../system/memory/) buffer. |
 | value | uint8_t | to write. |
 
 ## See Also

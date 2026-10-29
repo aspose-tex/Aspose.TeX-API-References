@@ -4,7 +4,7 @@ linktitle: TypeCode
 second_title: Aspose.TeX for C++
 description: 'System::TypeCode enum. Represents the type of an object in C++.'
 type: docs
-weight: 8800
+weight: 9300
 url: /cpp/system/typecode/
 ---
 ## TypeCode enum

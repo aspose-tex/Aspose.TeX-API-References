@@ -20,7 +20,7 @@ class IGuessPackageCallback : public virtual System::Object
 
 | Method | Description |
 | --- | --- |
-| virtual [GuessPackage](./guesspackage/)(System::String, bool) | Returns the name of a required package that supposedly defines the command or environment. |
+| virtual [GuessPackage](./guesspackage/)(const System::String\&, bool) | Returns the name of a required package that supposedly defines the command or environment. |
 ## See Also
 
 * Class [Object](../../system/object/)
