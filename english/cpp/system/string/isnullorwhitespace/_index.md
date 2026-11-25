@@ -28,6 +28,5 @@ true if string is null or empty or consists exclusively of white-space character
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

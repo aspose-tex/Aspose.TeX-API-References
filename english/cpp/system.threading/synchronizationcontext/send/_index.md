@@ -31,7 +31,6 @@ Unimplemented.
 
 * Typedef [SendOrPostCallback](../../sendorpostcallback/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [SynchronizationContext](../)
 * Namespace [System::Threading](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: Get
 second_title: Aspose.TeX for C++
 description: 'System::Get method. Function to get N-th element of tuple given. Overload for base object in C++.'
 type: docs
-weight: 21300
+weight: 22200
 url: /cpp/system/get/
 ---
 ## System::Get(const SharedPtr\<Object\>\&) method

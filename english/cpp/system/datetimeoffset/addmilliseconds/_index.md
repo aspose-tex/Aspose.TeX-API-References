@@ -28,6 +28,5 @@ Result of operation.
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

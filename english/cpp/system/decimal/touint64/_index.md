@@ -19,6 +19,5 @@ static uint64_t System::Decimal::ToUInt64(Decimal value)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

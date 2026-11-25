@@ -28,7 +28,6 @@ false if both strings are null or both are not null and match, true otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## String::operator!=(std::nullptr_t) const method

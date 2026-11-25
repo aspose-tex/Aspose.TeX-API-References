@@ -28,7 +28,6 @@ Reference to this.
 ## See Also
 
 * Class [Func](../)
-* Class [Func](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## Func::operator=(Func\&&) method
@@ -51,7 +50,6 @@ Reference to this.
 
 ## See Also
 
-* Class [Func](../)
 * Class [Func](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

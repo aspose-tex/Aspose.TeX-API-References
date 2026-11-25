@@ -4,7 +4,7 @@ linktitle: Build
 second_title: Aspose.TeX for C++
 description: 'System::Build method. Build an object with direct ownership in C++.'
 type: docs
-weight: 15600
+weight: 16300
 url: /cpp/system/build/
 ---
 ## System::Build method

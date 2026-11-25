@@ -29,6 +29,5 @@ static int System::Decimal::Compare(const Decimal &d1, const Decimal &d2)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

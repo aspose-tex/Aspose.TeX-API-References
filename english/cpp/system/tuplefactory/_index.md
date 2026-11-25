@@ -4,7 +4,7 @@ linktitle: TupleFactory
 second_title: Aspose.TeX for C++
 description: 'System::TupleFactory class. Provides static methods for creating tuple objects in C++.'
 type: docs
-weight: 7000
+weight: 7400
 url: /cpp/system/tuplefactory/
 ---
 ## TupleFactory class

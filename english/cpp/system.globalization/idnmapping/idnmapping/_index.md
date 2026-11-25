@@ -37,6 +37,5 @@ System::Globalization::IdnMapping::IdnMapping(const IdnMapping &)=delete
 ## See Also
 
 * Class [IdnMapping](../)
-* Class [IdnMapping](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)

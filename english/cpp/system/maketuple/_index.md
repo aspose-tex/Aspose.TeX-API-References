@@ -4,7 +4,7 @@ linktitle: MakeTuple
 second_title: Aspose.TeX for C++
 description: 'System::MakeTuple method. Creates tuple on stack in C++.'
 type: docs
-weight: 25900
+weight: 26800
 url: /cpp/system/maketuple/
 ---
 ## System::MakeTuple method

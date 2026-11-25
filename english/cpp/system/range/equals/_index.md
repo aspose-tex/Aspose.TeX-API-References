@@ -28,6 +28,5 @@ True if both ranges have the same start and end indexes, otherwise false.
 ## See Also
 
 * Class [Range](../)
-* Class [Range](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

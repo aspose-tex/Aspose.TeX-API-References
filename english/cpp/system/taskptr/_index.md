@@ -4,7 +4,7 @@ linktitle: TaskPtr
 second_title: Aspose.TeX for C++
 description: 'System::TaskPtr typedef. An alias for a smart pointer that points to an instance of System::Threading::Tasks::Task class in C++.'
 type: docs
-weight: 13800
+weight: 14500
 url: /cpp/system/taskptr/
 ---
 ## TaskPtr typedef

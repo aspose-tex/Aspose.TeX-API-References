@@ -4,7 +4,7 @@ linktitle: DynamicCast
 second_title: Aspose.TeX for C++
 description: 'System::DynamicCast method. Performs dynamic cast on Exception objects in C++.'
 type: docs
-weight: 17500
+weight: 18400
 url: /cpp/system/dynamiccast/
 ---
 ## System::DynamicCast(const TFrom\&) method
@@ -71,37 +71,6 @@ Left for backwards compatibility. Use ExplicitCast instead.
 ## System::DynamicCast(SmartPtr\<TFrom\>) method
 
 
-Unboxes boxed enum via cast.
-
-```cpp
-template<typename TTo,typename TFrom> std::enable_if<std::is_enum<TTo>::value, TTo>::type System::DynamicCast(SmartPtr<TFrom> obj)
-```
-
-
-| Parameter | Description |
-| --- | --- |
-| TTo | Target enum type. |
-| TFrom | Source pointee type. |
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | SmartPtr\<TFrom\> | Pointer to the object to unbox data from. |
-
-### ReturnValue
-
-Unboxed enum value.
-
-## Deprecated
-Left for backwards compatibility. Use ExplicitCast instead. 
-
-## See Also
-
-* Class [SmartPtr](../smartptr/)
-* Namespace [System](../)
-* Library [Aspose.TeX for C++](../../)
-## System::DynamicCast(SmartPtr\<TFrom\>) method
-
-
 Performs dynamic cast on Objects to [Exception](../exception/) objects.
 
 ```cpp
@@ -128,6 +97,37 @@ Left for backwards compatibility. Use ExplicitCast instead.
 ## See Also
 
 * Class [Object](../object/)
+* Class [SmartPtr](../smartptr/)
+* Namespace [System](../)
+* Library [Aspose.TeX for C++](../../)
+## System::DynamicCast(SmartPtr\<TFrom\>) method
+
+
+Unboxes boxed enum via cast.
+
+```cpp
+template<typename TTo,typename TFrom> std::enable_if<std::is_enum<TTo>::value, TTo>::type System::DynamicCast(SmartPtr<TFrom> obj)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| TTo | Target enum type. |
+| TFrom | Source pointee type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | SmartPtr\<TFrom\> | Pointer to the object to unbox data from. |
+
+### ReturnValue
+
+Unboxed enum value.
+
+## Deprecated
+Left for backwards compatibility. Use ExplicitCast instead. 
+
+## See Also
+
 * Class [SmartPtr](../smartptr/)
 * Namespace [System](../)
 * Library [Aspose.TeX for C++](../../)

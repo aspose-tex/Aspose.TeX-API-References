@@ -28,7 +28,6 @@ Self reference.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## String::operator=(String\&&) method
@@ -51,7 +50,6 @@ Self reference.
 
 ## See Also
 
-* Class [String](../)
 * Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

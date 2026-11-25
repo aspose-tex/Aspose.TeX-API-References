@@ -4,7 +4,7 @@ linktitle: EmptyType
 second_title: Aspose.TeX for C++
 description: 'System::TypeInfo::EmptyType field. Constant representing empty list of TypeInfo in C++.'
 type: docs
-weight: 5400
+weight: 5800
 url: /cpp/system/typeinfo/emptytype/
 ---
 ## EmptyType field

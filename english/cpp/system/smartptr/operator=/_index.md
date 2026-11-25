@@ -33,7 +33,6 @@ Reference to this object.
 
 * Typedef [SmartPtr_](../smartptr_/)
 * Class [SmartPtr](../)
-* Class [SmartPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## SmartPtr::operator=(const SmartPtr_\&) method

@@ -4,7 +4,7 @@ linktitle: System::Security::Cryptography
 second_title: Aspose.TeX for C++
 description: 'How to use System::Security::Cryptography namespace in C++.'
 type: docs
-weight: 4800
+weight: 5000
 url: /cpp/system.security.cryptography/
 ---
 

@@ -4,7 +4,7 @@ linktitle: System::Security::Authentication
 second_title: Aspose.TeX for C++
 description: 'How to use System::Security::Authentication namespace in C++.'
 type: docs
-weight: 4700
+weight: 4900
 url: /cpp/system.security.authentication/
 ---
 

@@ -4,7 +4,7 @@ linktitle: IsPositiveInfinity
 second_title: Aspose.TeX for C++
 description: 'System::IsPositiveInfinity method. Determines if the specified value represents positive infinity in C++.'
 type: docs
-weight: 23800
+weight: 24700
 url: /cpp/system/ispositiveinfinity/
 ---
 ## System::IsPositiveInfinity method

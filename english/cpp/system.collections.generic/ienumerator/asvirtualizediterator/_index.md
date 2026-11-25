@@ -24,6 +24,5 @@ This pointer.
 ## See Also
 
 * Class [IEnumerator](../)
-* Class [IEnumerator](../)
 * Namespace [System::Collections::Generic](../../)
 * Library [Aspose.TeX for C++](../../../)

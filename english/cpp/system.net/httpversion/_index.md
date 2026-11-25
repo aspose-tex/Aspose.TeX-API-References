@@ -4,7 +4,7 @@ linktitle: HttpVersion
 second_title: Aspose.TeX for C++
 description: 'System::Net::HttpVersion class. Contains versions of HTTP in C++.'
 type: docs
-weight: 1900
+weight: 2000
 url: /cpp/system.net/httpversion/
 ---
 ## HttpVersion class

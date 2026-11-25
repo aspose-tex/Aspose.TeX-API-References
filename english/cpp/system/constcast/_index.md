@@ -4,7 +4,7 @@ linktitle: ConstCast
 second_title: Aspose.TeX for C++
 description: 'System::ConstCast method. End of deprecated casts in C++.'
 type: docs
-weight: 16700
+weight: 17500
 url: /cpp/system/constcast/
 ---
 ## System::ConstCast method

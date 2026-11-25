@@ -57,6 +57,5 @@ System::Globalization::StringInfo::StringInfo(const StringInfo &)=delete
 ## See Also
 
 * Class [StringInfo](../)
-* Class [StringInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -4,7 +4,7 @@ linktitle: GEqual
 second_title: Aspose.TeX for C++
 description: 'System::GEqual method. Implements ''>='' relative pattern translation in C++.'
 type: docs
-weight: 21200
+weight: 22100
 url: /cpp/system/gequal/
 ---
 ## System::GEqual method

@@ -4,7 +4,7 @@ linktitle: setter_wrap
 second_title: Aspose.TeX for C++
 description: 'System::setter_wrap method. Overload for instance setter functions with type conversion in C++.'
 type: docs
-weight: 39300
+weight: 40200
 url: /cpp/system/setter_wrap/
 ---
 ## System::setter_wrap(Host *const, void(HostSet::*)(T2), T) method
@@ -36,7 +36,6 @@ set value.
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.TeX for C++](../../)
 ## System::setter_wrap(void(*)(T2), T) method

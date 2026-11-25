@@ -61,7 +61,6 @@ True if the object referenced by [SmartPtr](../) is 'less' than x and false othe
 ## See Also
 
 * Class [SmartPtr](../)
-* Class [SmartPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## SmartPtr::operator<(Y *) const method

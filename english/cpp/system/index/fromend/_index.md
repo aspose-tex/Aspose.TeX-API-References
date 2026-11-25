@@ -28,6 +28,5 @@ An [Index](../) instance that refers to the end-relative position.
 ## See Also
 
 * Class [Index](../)
-* Class [Index](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

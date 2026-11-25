@@ -28,6 +28,5 @@ true if objects represents the different versions, otherwise - false.
 ## See Also
 
 * Class [SortVersion](../)
-* Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)

@@ -23,7 +23,6 @@ void System::TypeInfo::AddAttribute(const ObjectPtr &attribute)
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
 * Class [TypeInfo](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

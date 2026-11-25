@@ -19,6 +19,5 @@ static uint8_t System::Decimal::ToByte(Decimal value)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

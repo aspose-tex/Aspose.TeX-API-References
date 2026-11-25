@@ -35,7 +35,6 @@ true if the **input** converted successfully, otherwise - false.
 * Class [IFormatProvider](../../iformatprovider/)
 * Enum [DateTimeStyles](../../../system.globalization/datetimestyles/)
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## DateTimeOffset::TryParse(const String\&, DateTimeOffset\&) method
@@ -60,7 +59,6 @@ true if the **input** converted successfully, otherwise - false.
 ## See Also
 
 * Class [String](../../string/)
-* Class [DateTimeOffset](../)
 * Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

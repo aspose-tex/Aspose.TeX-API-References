@@ -19,6 +19,5 @@ DateTimeFormatInfo & System::Globalization::DateTimeFormatInfo::operator=(const 
 ## See Also
 
 * Class [DateTimeFormatInfo](../)
-* Class [DateTimeFormatInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)

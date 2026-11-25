@@ -28,7 +28,6 @@ BasicSystemIOStreamWrapper & System::IO::BasicSystemIOStreamWrapper<Elem, Traits
 ## See Also
 
 * Class [BasicSystemIOStreamWrapper](../)
-* Class [BasicSystemIOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## BasicSystemIOStreamWrapper::operator=(const BasicSystemIOStreamWrapper\&) method
@@ -42,7 +41,6 @@ BasicSystemIOStreamWrapper & System::IO::BasicSystemIOStreamWrapper<Elem, Traits
 
 ## See Also
 
-* Class [BasicSystemIOStreamWrapper](../)
 * Class [BasicSystemIOStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

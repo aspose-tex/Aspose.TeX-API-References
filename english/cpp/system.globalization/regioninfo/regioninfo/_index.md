@@ -19,7 +19,6 @@ System::Globalization::RegionInfo::RegionInfo(const RegionInfo &)=delete
 ## See Also
 
 * Class [RegionInfo](../)
-* Class [RegionInfo](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## RegionInfo::RegionInfo(const String\&) constructor

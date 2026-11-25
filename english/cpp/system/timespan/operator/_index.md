@@ -19,7 +19,6 @@ TimeSpan System::TimeSpan::operator/(double divisor) const
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## TimeSpan::operator/(TimeSpan) const method
@@ -33,7 +32,6 @@ double System::TimeSpan::operator/(TimeSpan value) const
 
 ## See Also
 
-* Class [TimeSpan](../)
 * Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

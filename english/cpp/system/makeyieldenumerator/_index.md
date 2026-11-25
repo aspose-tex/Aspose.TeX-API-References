@@ -4,7 +4,7 @@ linktitle: MakeYieldEnumerator
 second_title: Aspose.TeX for C++
 description: 'System::MakeYieldEnumerator method. Creates an IEnumerator from a yield function in C++.'
 type: docs
-weight: 26500
+weight: 27400
 url: /cpp/system/makeyieldenumerator/
 ---
 ## System::MakeYieldEnumerator method

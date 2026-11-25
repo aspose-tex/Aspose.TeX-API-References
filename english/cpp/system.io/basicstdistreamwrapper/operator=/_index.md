@@ -19,6 +19,5 @@ BasicSTDIStreamWrapper & System::IO::BasicSTDIStreamWrapper<T, typename>::operat
 ## See Also
 
 * Class [BasicSTDIStreamWrapper](../)
-* Class [BasicSTDIStreamWrapper](../)
 * Namespace [System::IO](../../)
 * Library [Aspose.TeX for C++](../../../)

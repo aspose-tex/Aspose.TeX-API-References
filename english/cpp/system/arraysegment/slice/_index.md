@@ -19,6 +19,5 @@ ArraySegment<T> System::ArraySegment<T>::Slice(int32_t index, int32_t count)
 ## See Also
 
 * Class [ArraySegment](../)
-* Class [ArraySegment](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
