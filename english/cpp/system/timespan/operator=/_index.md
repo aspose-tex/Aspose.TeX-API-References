@@ -24,6 +24,5 @@ A reference to the self
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

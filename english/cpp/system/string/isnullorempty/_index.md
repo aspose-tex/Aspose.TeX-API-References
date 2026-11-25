@@ -47,6 +47,5 @@ true if string is null or empty, false otherwise.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

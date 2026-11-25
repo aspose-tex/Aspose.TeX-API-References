@@ -24,6 +24,5 @@ Current [DateTimeOffset](../) object converted to local time.
 ## See Also
 
 * Class [DateTimeOffset](../)
-* Class [DateTimeOffset](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

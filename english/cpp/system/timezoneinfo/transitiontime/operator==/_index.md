@@ -19,7 +19,6 @@ bool System::TimeZoneInfo::TransitionTime::operator==(const TransitionTime &othe
 ## See Also
 
 * Class [TransitionTime](../)
-* Class [TransitionTime](../)
 * Class [TimeZoneInfo](../../)
 * Namespace [System](../../../)
 * Library [Aspose.TeX for C++](../../../../)

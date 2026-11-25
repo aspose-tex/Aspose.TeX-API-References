@@ -19,6 +19,5 @@ static float System::Decimal::ToSingle(Decimal value)
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

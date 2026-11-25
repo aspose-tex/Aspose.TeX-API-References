@@ -28,6 +28,5 @@ A [Decimal](../) object representing a decimal value whose integral part is equa
 ## See Also
 
 * Class [Decimal](../)
-* Class [Decimal](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

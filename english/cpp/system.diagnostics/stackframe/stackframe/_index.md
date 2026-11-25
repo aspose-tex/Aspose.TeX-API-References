@@ -19,7 +19,6 @@ System::Diagnostics::StackFrame::StackFrame(const StackFrame &)=delete
 ## See Also
 
 * Class [StackFrame](../)
-* Class [StackFrame](../)
 * Namespace [System::Diagnostics](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## StackFrame::StackFrame(int) constructor

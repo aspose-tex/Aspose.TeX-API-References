@@ -28,6 +28,5 @@ static String System::String::FromWCS(const std::wstring &wcs)
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

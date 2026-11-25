@@ -24,7 +24,7 @@ enum class PdfImageCompression
 | None | 1 | Saves raw image bytes resulting in bigger PDF file sizes. |
 | Rle | 2 | Run Length compression. |
 | Flate | 3 | Flate compression. |
-| LzwBaselinePredictor | 4 | Predictor selection is restricted to PNG Paeth predictor to speed-up the process. In practice performs surprisingly good. Better than [LzwOptimizedPredictor](./). |
+| LzwBaselinePredictor | 4 | Predictor selection is restricted to PNG Paeth predictor to speed-up the process. In practice performs surprisingly good. Better than [LzwOptimizedPredictor](../). |
 | LzwOptimizedPredictor | 5 | Predictor selection is more complicated and should result in smaller image sizes but taking more time. |
 | Jpeg | 6 | JPEG compression. Does not support transparency. |
 

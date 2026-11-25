@@ -4,7 +4,7 @@ linktitle: setter_decrement_wrap
 second_title: Aspose.TeX for C++
 description: 'System::setter_decrement_wrap method. Translator translates C#''s pre-decrement expressions targeting instance''s property that has setter and getter defined, into invocation of this function (overload for const getter) in C++.'
 type: docs
-weight: 38200
+weight: 39100
 url: /cpp/system/setter_decrement_wrap/
 ---
 ## System::setter_decrement_wrap(Host *const, T(HostConstGet::*)() const, void(HostSet::*)(T)) method
@@ -36,7 +36,6 @@ The value of the property before incrementing
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.TeX for C++](../../)
 ## System::setter_decrement_wrap(Host *const, T(HostGet::*)(), void(HostSet::*)(T)) method
@@ -68,7 +67,6 @@ The value of the property before incrementing
 
 ## See Also
 
-* Enum [UriComponents](../uricomponents/)
 * Namespace [System](../)
 * Library [Aspose.TeX for C++](../../)
 ## System::setter_decrement_wrap(T(*)(), void(*)(T)) method

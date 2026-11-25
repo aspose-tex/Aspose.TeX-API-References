@@ -4,7 +4,7 @@ linktitle: operator<<
 second_title: Aspose.TeX for C++
 description: 'System::operator<< method. Outputs a string to the output stream using UTF-8 encoding in C++.'
 type: docs
-weight: 30200
+weight: 31100
 url: /cpp/system/operator__/
 ---
 ## System::operator<<(std::ostream\&, const String\&) method
@@ -685,7 +685,7 @@ linktitle: operator>>
 second_title: Aspose.TeX for C++
 description: 'System::operator>> method. Gets a string from the input streamusing UTF-8 encoding in C++.'
 type: docs
-weight: 36200
+weight: 37100
 url: /cpp/system/operator__/
 ---
 ## System::operator>>(std::istream\&, String\&) method

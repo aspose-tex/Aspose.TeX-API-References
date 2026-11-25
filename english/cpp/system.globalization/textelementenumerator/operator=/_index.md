@@ -19,6 +19,5 @@ TextElementEnumerator & System::Globalization::TextElementEnumerator::operator=(
 ## See Also
 
 * Class [TextElementEnumerator](../)
-* Class [TextElementEnumerator](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)

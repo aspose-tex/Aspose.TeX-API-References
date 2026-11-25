@@ -4,7 +4,7 @@ linktitle: EnumGetName
 second_title: Aspose.TeX for C++
 description: 'How to use EnumGetName method of  class in C++.'
 type: docs
-weight: 18600
+weight: 19500
 url: /cpp/system/enumgetname/
 ---
 ## System::EnumGetName(T) method

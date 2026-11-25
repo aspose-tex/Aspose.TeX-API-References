@@ -19,7 +19,6 @@ virtual SharedPtr<Object> System::Security::Cryptography::Xml::Transform::GetOut
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [Transform](../)
 * Namespace [System::Security::Cryptography::Xml](../../)
 * Library [Aspose.TeX for C++](../../../)
@@ -35,7 +34,6 @@ virtual SharedPtr<Object> System::Security::Cryptography::Xml::Transform::GetOut
 ## See Also
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Object](../../../system/object/)
 * Class [TypeInfo](../../../system/typeinfo/)
 * Class [Transform](../)
 * Namespace [System::Security::Cryptography::Xml](../../)

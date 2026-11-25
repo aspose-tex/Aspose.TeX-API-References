@@ -19,7 +19,6 @@ System::Globalization::SortVersion::SortVersion(const SortVersion &)=delete
 ## See Also
 
 * Class [SortVersion](../)
-* Class [SortVersion](../)
 * Namespace [System::Globalization](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## SortVersion::SortVersion(int, const Guid\&) constructor

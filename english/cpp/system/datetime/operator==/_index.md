@@ -28,7 +28,6 @@ True if the current object and the specified object represent the same date and 
 ## See Also
 
 * Class [DateTime](../)
-* Class [DateTime](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
 ## DateTime::operator==(std::nullptr_t) const method

@@ -29,6 +29,5 @@ Self reference.
 ## See Also
 
 * Class [String](../)
-* Class [String](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

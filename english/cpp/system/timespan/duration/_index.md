@@ -19,6 +19,5 @@ TimeSpan System::TimeSpan::Duration() const
 ## See Also
 
 * Class [TimeSpan](../)
-* Class [TimeSpan](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)

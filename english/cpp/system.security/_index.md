@@ -4,7 +4,7 @@ linktitle: System::Security
 second_title: Aspose.TeX for C++
 description: 'How to use System::Security namespace in C++.'
 type: docs
-weight: 4600
+weight: 4800
 url: /cpp/system.security/
 ---
 

@@ -27,7 +27,6 @@ template<class Q,typename> System::WeakPtr<T>::WeakPtr(const SmartPtr<Q> &x)
 
 ## See Also
 
-* Class [SmartPtr](../../smartptr/)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
@@ -71,7 +70,6 @@ template<class Q,typename> System::WeakPtr<T>::WeakPtr(const WeakPtr<Q> &x)
 
 ## See Also
 
-* Class [WeakPtr](../)
 * Class [WeakPtr](../)
 * Namespace [System](../../)
 * Library [Aspose.TeX for C++](../../../)
